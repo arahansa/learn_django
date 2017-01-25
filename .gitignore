@@ -1,1 +1,4 @@
 .idea
+blog/migrations
+testapp/__pycache__
+__pycache__
